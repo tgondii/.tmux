@@ -351,7 +351,7 @@ unbind e
 unbind d
 unbind r
 bind C-r split-window -h
-bind C-r split-window -h
+bind r split-window -h
 
 bind d split-window -v
 bind C-d split-window -v
